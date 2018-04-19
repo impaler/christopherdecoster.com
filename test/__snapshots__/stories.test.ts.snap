@@ -1,0 +1,1844 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots components/buttons/base empty 1`] = `
+<div
+  className="sc-bdVaJa cNsWfH"
+/>
+`;
+
+exports[`Storyshots components/buttons/base onClick 1`] = `
+<div
+  className="sc-bdVaJa cNsWfH"
+  onClick={[Function]}
+  title="left mouse"
+>
+  Click me
+</div>
+`;
+
+exports[`Storyshots components/buttons/base text 1`] = `
+<div
+  className="sc-bdVaJa cNsWfH"
+  title="title tip"
+>
+  Lorem
+</div>
+`;
+
+exports[`Storyshots components/buttons/base title 1`] = `
+<div
+  className="sc-bdVaJa cNsWfH"
+  title="title tip"
+/>
+`;
+
+exports[`Storyshots components/buttons/href empty 1`] = `
+<a
+  className="sc-htpNat bJlOZI"
+  href="#wowza"
+/>
+`;
+
+exports[`Storyshots components/buttons/href target 1`] = `
+<a
+  className="sc-htpNat bJlOZI"
+  href="#wowza"
+  target="_top"
+  title="left mouse"
+>
+  Click me
+</a>
+`;
+
+exports[`Storyshots components/buttons/href text 1`] = `
+<a
+  className="sc-htpNat bJlOZI"
+  href="#wowza"
+  title="title tip"
+>
+  Lorem
+</a>
+`;
+
+exports[`Storyshots components/buttons/href title 1`] = `
+<a
+  className="sc-htpNat bJlOZI"
+  href="#wowza"
+  title="title tip"
+/>
+`;
+
+exports[`Storyshots components/buttons/router-to empty 1`] = `
+<a
+  className="sc-ifAKCX dryCgK"
+  href="/about"
+  onClick={[Function]}
+/>
+`;
+
+exports[`Storyshots components/buttons/router-to text 1`] = `
+<a
+  className="sc-ifAKCX dryCgK"
+  href="/about"
+  onClick={[Function]}
+  title="title tip"
+>
+  Lorem
+</a>
+`;
+
+exports[`Storyshots components/buttons/router-to title 1`] = `
+<a
+  className="sc-ifAKCX dryCgK"
+  href="/about"
+  onClick={[Function]}
+  title="title tip"
+/>
+`;
+
+exports[`Storyshots components/markup/article element 1`] = `
+<article
+  className="sc-bZQynM dSgrvo"
+>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</article>
+`;
+
+exports[`Storyshots components/markup/article many 1`] = `
+Array [
+  <article
+    className="sc-bZQynM dSgrvo"
+  >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+  </article>,
+  <article
+    className="sc-bZQynM dSgrvo"
+  >
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.
+  </article>,
+  <article
+    className="sc-bZQynM dSgrvo"
+  >
+    Sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </article>,
+  <article
+    className="sc-bZQynM dSgrvo"
+  >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </article>,
+]
+`;
+
+exports[`Storyshots components/markup/kitchensink all 1`] = `
+Array [
+  <h1>
+    Markdown css themes
+  </h1>,
+  <hr />,
+  <h1>
+    A First Level Header
+  </h1>,
+  <h2>
+    A Second Level Header
+  </h2>,
+  <h3>
+    A Third Level Header
+  </h3>,
+  <h4>
+    A Fourth Level Header
+  </h4>,
+  <h5>
+    A Fifth Level Header
+  </h5>,
+  <h6>
+    A Sixed Level Header
+  </h6>,
+  <p
+    className="sc-EHOje jwQWZo"
+  >
+    Now is the time for all good men to come to the aid of their country. This is just a regular paragraph.
+  </p>,
+  <p
+    className="sc-EHOje jwQWZo"
+  >
+    The quick brown fox jumped over the lazy dog’s back.
+  </p>,
+  <hr />,
+  <h3>
+    Header 3
+  </h3>,
+  <blockquote>
+    <p
+      className="sc-EHOje jwQWZo"
+    >
+      This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+    </p>
+    <p
+      className="sc-EHOje jwQWZo"
+    >
+      Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse id sem consectetuer libero luctus adipiscing.
+    </p>
+    <h2>
+      This is an H2 in a blockquote
+    </h2>
+    <p
+      className="sc-EHOje jwQWZo"
+    >
+      This is the first level of quoting.
+    </p>
+    <blockquote>
+      <p
+        className="sc-EHOje jwQWZo"
+      >
+        This is nested blockquote.
+      </p>
+    </blockquote>
+    <p
+      className="sc-EHOje jwQWZo"
+    >
+      Back to the first level.
+    </p>
+  </blockquote>,
+  <p
+    className="sc-EHOje jwQWZo"
+  >
+    Some of these words 
+    <em>
+      are emphasized
+    </em>
+    . Some of these words 
+    <em>
+      are emphasized also
+    </em>
+    .
+  </p>,
+  <p
+    className="sc-EHOje jwQWZo"
+  >
+    Use two asterisks for 
+    <strong>
+      strong emphasis
+    </strong>
+    . Or, if you prefer, 
+    <strong>
+      use two underscores instead
+    </strong>
+    .
+  </p>,
+  <ul>
+    <li>
+      Candy.
+    </li>
+    <li>
+      Gum.
+    </li>
+    <li>
+      Booze.
+    </li>
+    <li>
+      Red
+    </li>
+    <li>
+      Green
+    </li>
+    <li>
+      <p
+        className="sc-EHOje jwQWZo"
+      >
+        Blue
+      </p>
+    </li>
+    <li>
+      <p
+        className="sc-EHOje jwQWZo"
+      >
+        A list item.
+      </p>
+    </li>
+  </ul>,
+  <p
+    className="sc-EHOje jwQWZo"
+  >
+    With multiple paragraphs.
+  </p>,
+  <ul>
+    <li>
+      <p
+        className="sc-EHOje jwQWZo"
+      >
+        Another item in the list.
+      </p>
+    </li>
+    <li>
+      <p
+        className="sc-EHOje jwQWZo"
+      >
+        This is a list item with two paragraphs. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+      </p>
+    </li>
+  </ul>,
+  <p
+    className="sc-EHOje jwQWZo"
+  >
+    Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus. Donec sit amet nisl. Aliquam semper ipsum sit amet velit.* Suspendisse id sem consectetuer libero luctus adipiscing.
+  </p>,
+  <ul>
+    <li>
+      This is a list item with two paragraphs.
+    </li>
+  </ul>,
+  <p
+    className="sc-EHOje jwQWZo"
+  >
+    This is the second paragraph in the list item. You’re only required to indent the first line. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+  </p>,
+  <ul>
+    <li>
+      <p
+        className="sc-EHOje jwQWZo"
+      >
+        Another item in the same list.
+      </p>
+    </li>
+    <li>
+      <p
+        className="sc-EHOje jwQWZo"
+      >
+        A list item with a bit of 
+        <code>
+          code
+        </code>
+         inline.
+      </p>
+    </li>
+    <li>
+      <p
+        className="sc-EHOje jwQWZo"
+      >
+        A list item with a blockquote:
+      </p>
+      <blockquote>
+        <p
+          className="sc-EHOje jwQWZo"
+        >
+          This is a blockquote inside a list item.
+        </p>
+      </blockquote>
+    </li>
+  </ul>,
+  <p
+    className="sc-EHOje jwQWZo"
+  >
+    Here is an example of a pre code block
+  </p>,
+  <pre>
+    <code>
+      tell application "Foo" beep end tell
+    </code>
+  </pre>,
+  <p
+    className="sc-EHOje jwQWZo"
+  >
+    This is an 
+    <a
+      href="http://example.com/"
+    >
+      example link
+    </a>
+    .
+  </p>,
+  <p
+    className="sc-EHOje jwQWZo"
+  >
+    I get 10 times more traffic from 
+    <a
+      href="http://google.com/"
+      title="Google"
+    >
+      Google
+    </a>
+     than from
+    <a
+      href="http://search.yahoo.com/"
+      title="Yahoo Search"
+    >
+      Yahoo
+    </a>
+     or 
+    <a
+      href="http://search.msn.com/"
+      title="MSN Search"
+    >
+      MSN
+    </a>
+    .
+  </p>,
+  <p
+    className="sc-EHOje jwQWZo"
+  >
+    I start my morning with a cup of coffee and
+    <a
+      href="http://www.nytimes.com/"
+    >
+      The New York Times
+    </a>
+    .
+  </p>,
+]
+`;
+
+exports[`Storyshots components/markup/nav a links 1`] = `
+<nav
+  className="sc-gZMcBi hPbbWw"
+>
+  <a
+    href="#"
+  >
+    Lorem
+  </a>
+  <a
+    href="#"
+  >
+    ipsum
+  </a>
+  <a
+    href="#"
+  >
+    sit
+  </a>
+  <a
+    href="#"
+  >
+    amet
+  </a>
+</nav>
+`;
+
+exports[`Storyshots components/markup/p element 1`] = `
+<p
+  className="sc-EHOje jwQWZo"
+>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
+`;
+
+exports[`Storyshots components/markup/p many 1`] = `
+Array [
+  <p
+    className="sc-EHOje jwQWZo"
+  >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+  </p>,
+  <p
+    className="sc-EHOje jwQWZo"
+  >
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.
+  </p>,
+  <p
+    className="sc-EHOje jwQWZo"
+  >
+    Sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </p>,
+  <p
+    className="sc-EHOje jwQWZo"
+  >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </p>,
+]
+`;
+
+exports[`Storyshots components/markup/section element 1`] = `
+<section
+  className="sc-gqjmRU dopYQG"
+>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</section>
+`;
+
+exports[`Storyshots components/markup/section many 1`] = `
+Array [
+  <section
+    className="sc-gqjmRU dopYQG"
+  >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+  </section>,
+  <section
+    className="sc-gqjmRU dopYQG"
+  >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </section>,
+  <section
+    className="sc-gqjmRU dopYQG"
+  >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+  </section>,
+]
+`;
+
+exports[`Storyshots routes/home / 1`] = `
+<article
+  className="sc-cSHVUG HeVMA"
+>
+  <div
+    className="sc-iwsKbI elnLzh sc-htoDjs kPjqLK"
+  >
+    <div
+      className="sc-dnqmqq iTrTGm sc-htoDjs kPjqLK"
+    >
+      <a
+        className="sc-VigVT itimkS sc-ifAKCX dryCgK"
+        href="/posts"
+        onClick={[Function]}
+        title="Read my blog"
+      >
+        <img
+          src="/assets/images/avatar.png"
+        />
+      </a>
+      <div
+        className="sc-iwsKbI elnLzh sc-htoDjs kPjqLK"
+      >
+        <a
+          className="sc-fjdhpX fzNgZD"
+          href="#"
+          imgSrc="/assets/images/github-icon.svg"
+          title="Checkout some code I share and contrib on github"
+        >
+          <img
+            src="/assets/images/github-icon.svg"
+          />
+        </a>
+        <a
+          className="sc-fjdhpX fzNgZD"
+          href="#"
+          imgSrc="/assets/images/twitter-icon.svg"
+          title="See me tweet about interesting stuff"
+        >
+          <img
+            src="/assets/images/twitter-icon.svg"
+          />
+        </a>
+      </div>
+    </div>
+    <div
+      className="sc-dnqmqq iTrTGm sc-htoDjs kPjqLK"
+    >
+      <span
+        className="sc-jTzLTM ggPFsw"
+        initDelay={0}
+        maxDelay={100}
+        minDelay={20}
+        typing={1}
+      >
+        
+        <span
+          style={
+            Object {
+              "display": "none",
+            }
+          }
+        >
+          Hi I'm Chris, welcome to my little home on the web. I am a generalist software craftsman who loves talking tech, learning, and writing code.
+        </span>
+        
+      </span>
+      <nav
+        className="sc-gZMcBi hPbbWw"
+      >
+        <a
+          className="sc-jzJRlG dNAoTX"
+          href="/posts"
+          onClick={[Function]}
+          title="Read my blog"
+        >
+          Blog
+        </a>
+        <a
+          className="sc-jzJRlG dNAoTX"
+          href="/posts/reading-list"
+          onClick={[Function]}
+          title="Checkout my reading and link list"
+        >
+          Links
+        </a>
+      </nav>
+    </div>
+  </div>
+  <nav
+    className="sc-gZMcBi hPbbWw"
+  >
+    <a
+      className="sc-htpNat bJlOZI"
+      href="#"
+    >
+      <img
+        src="/assets/images/github-icon.svg"
+      />
+    </a>
+  </nav>
+</article>
+`;
+
+exports[`Storyshots routes/home/components/avatar to 1`] = `
+<a
+  className="sc-VigVT itimkS sc-ifAKCX dryCgK"
+  href="/"
+  onClick={[Function]}
+  title={undefined}
+>
+  <img
+    src="/assets/images/avatar.png"
+  />
+</a>
+`;
+
+exports[`Storyshots routes/post:id / 1`] = `
+<article
+  className={undefined}
+>
+  <header
+    className="sc-kgoBCf gLCpLW"
+  >
+    <h1>
+      Debugging Functional Javascript
+    </h1>
+    <label>
+      Working through errors and stacktraces to debug functional style javascript
+    </label>
+    <nav>
+      <a
+        className="home-button"
+        href="/"
+        onClick={[Function]}
+        title="Home"
+      >
+        <img
+          src="/assets/images/avatar.png"
+        />
+      </a>
+      <a
+        href="/posts"
+        onClick={[Function]}
+      >
+        Posts
+      </a>
+    </nav>
+  </header>
+  <section
+    className="sc-kAzzGY lfLalu"
+    dangerouslySetInnerHTML={
+      Object {
+        "__html": "
+<p>
+  After exploring functional style programming in Javascript I'd like to write
+  about some trade offs worth thinking about when debugging. This post is rather
+  opinionated but offers some techniques to make thing's easier.
+</p>
+<p>
+  I will assume some familiarity with basic functional programming concepts.
+  Some of the issues I bring up are not specific to functional pattens per-se.
+</p>
+<p>
+  If you write 100% typo freee, perfect code all the time, you may find this
+  a little dry. Or if you think it would be ok for Apple to remove the backspace
+  key like they did with the escape key, you should probably move on :/
+</p>
+<p>
+  The purpose of this is not to discourage anyone from writing in a more
+  functional style. Nor is it to discourage the use of one of the great quality
+  functional libraries out there like <a href=\\"http://ramdajs.com/\\">Ramda</a>, <a href=\\"https://github.com/lodash/lodash/wiki/FP-Guide\\">lodash_fp</a> or
+  <a href=\\"https://sanctuary.js.org/\\">Sanctuary</a>. I enjoy writing code in a more functional style and
+  understand many good reasons to use and promote it.
+</p>
+<p><em>Enough with the disclaimers</em>.</p>
+<p>
+  I have found that in certain contexts, particularly with using a
+  <a href=\\"https://en.wikipedia.org/wiki/Tacit_programming\\">tacit / point-free</a> programming style in Javascript,
+  it can lead to obfuscation of stack traces and barriers to debugging.
+</p>
+<p>
+  Lets start by looking at a stack trace from an unexpected error in some
+  functional style code. It's probably just some silly typo, in this case it's
+  from some something rather \\"simple\\" using the <a href=\\"http://ramdajs.com/\\">Ramda</a> library:
+</p>
+<p><img src=\\"/assets/fp-debugging/example-fp-ramda-exception.png\\" alt=\\"Functional exception example\\"></p>
+<p>
+  When seeing this kind of thing, I can't help but be reminded of the
+  frustration I have seen and experienced myself while writing and debugging
+  <code>Angularjs 1.x</code> console errors.
+</p>
+<p>In this situation it can be pretty tempting to naively think:</p>
+<blockquote>
+  <p>
+    \\"If an Error's Call Stack only shows lines from a dependency,
+    the error therefore must be a bug in the dependency!\\"
+  </p>
+  <ul>
+    <li>A thought no programmer ever had &#x3C;-- Sarcasm</li>
+  </ul>
+</blockquote>
+<p>
+  How many issues on github and so on have you seen closed from someone commenting
+  something like:
+</p>
+<blockquote>
+  <p>\\"Woops sorry my fault, I didn't see the...\\"</p>
+</blockquote>
+<p>
+  Wishful thinking aside, you need to solve this error whether it is your
+  code or not. From the message it's probably hard to tell where in your code
+  something named as generically as \\"name\\" is being referenced. For all you
+  know, it could be some smarts that is using the name property on
+  the <a href=\\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/name\\">function prototype</a>.
+</p>
+<p>
+  What we can see in the call stack are function names from very
+  common functional patterns like <code>pipe</code>, <code>curry</code> and <code>map</code>. Problem is,
+  you are probably using these all over your codebase. So this is about as
+  good as knowing that a code path is using <code>if</code> and <code>else</code> statements.
+  Useless, if this came from production, good luck in knowing where to
+  effectively start debugging the issue.
+</p>
+<p>
+  So why would a more functional style of programming lead to an obfuscated
+  stack trace like this?
+</p>
+<p>It is a combination of:</p>
+<ul>
+  <li><a href=\\"https://en.wikipedia.org/wiki/Currying\\">Function currying</a></li>
+  <li><a href=\\"https://en.wikipedia.org/wiki/Tacit_programming\\">Tacit / Point-free</a> styles</li>
+  <li>The dynamic nature of Javascript</li>
+  <li>Async methods</li>
+  <li>Large amounts of library code</li>
+</ul>
+<p>
+  All of this has the side effect of filling the call stack with function names
+  that are usually anonymous or from a dependency if they are not totally mangled
+  from some magnification. Now the browser's call stack size is after all
+  limited. I'll show you how to increase it a little further on.
+</p>
+<h3><a href=\\"#comparing-imperative-and-functional-examples\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Comparing imperative and functional examples</h3>
+<p>
+  This is all easier to think about with a simple code example. Code from less
+  trivial and larger codebases will most likely, have longer stack traces and
+  if you just walked in, it could be even harder to reason about.
+</p>
+<p>In this example, imagine we are given the following object from a service.</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-keyword\\">const</span> response = {
+  <span class=\\"hljs-attr\\">messages</span>: [
+    {
+      <span class=\\"hljs-attr\\">user</span>: {
+        <span class=\\"hljs-attr\\">role</span>: <span class=\\"hljs-string\\">'The first ones'</span>,
+        <span class=\\"hljs-attr\\">name</span>: <span class=\\"hljs-string\\">'Kosh'</span>,
+        <span class=\\"hljs-attr\\">species</span>: <span class=\\"hljs-string\\">'Vorlon'</span>
+      },
+      <span class=\\"hljs-attr\\">text</span>: <span class=\\"hljs-string\\">'Who are you?'</span>
+    }
+  ]
+}
+</code></pre>
+<p>
+  We are required to display some comma separated text in a view. The text must
+  contain a list of all the user names and their species. Each user needs to be
+  in the following format:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-string\\">\`<span class=\\"hljs-subst\\">\${userName}</span> is a <span class=\\"hljs-subst\\">\${species}</span>\`</span>
+
+<span class=\\"hljs-comment\\">// Eg =>  Kosh is a Vorlon, ...</span>
+</code></pre>
+<p>To illustrate, let's implement this using a couple of different styles.</p>
+<h4><a href=\\"#functional-point-free\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Functional point-free</h4>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-keyword\\">const</span> userDisplayText = R.pipe(
+  R.prop([<span class=\\"hljs-string\\">'user'</span>]),
+  R.props([<span class=\\"hljs-string\\">'name'</span>, <span class=\\"hljs-string\\">'species'</span>]),
+  R.intersperse(<span class=\\"hljs-string\\">'is a'</span>),
+  R.join(<span class=\\"hljs-string\\">' '</span>)
+)
+
+<span class=\\"hljs-keyword\\">const</span> messagesDisplayText = R.pipe(
+  R.prop(<span class=\\"hljs-string\\">'messages'</span>),
+  R.map(userDisplayText),
+  R.join(<span class=\\"hljs-string\\">', '</span>)
+)
+</code></pre>
+<h4><a href=\\"#imperative\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Imperative</h4>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-function\\"><span class=\\"hljs-keyword\\">function</span> <span class=\\"hljs-title\\">messagesDisplayText</span>(<span class=\\"hljs-params\\">response</span>) </span>{
+  <span class=\\"hljs-keyword\\">var</span> users = []
+  <span class=\\"hljs-keyword\\">for</span> (<span class=\\"hljs-keyword\\">var</span> i = <span class=\\"hljs-number\\">0</span>; i &#x3C; response.messages.length; i++) {
+    <span class=\\"hljs-keyword\\">var</span> user = response.messages[i].user
+    <span class=\\"hljs-keyword\\">var</span> details = [
+      user.name,
+      <span class=\\"hljs-string\\">'is a'</span>,
+      user.species
+    ]
+    users.push(details.join(<span class=\\"hljs-string\\">' '</span>))
+  }
+  <span class=\\"hljs-keyword\\">return</span> users.join(<span class=\\"hljs-string\\">', '</span>);
+}
+</code></pre>
+<p>
+  Yes these are strange and imperfect ways to implement this, it's only
+  intended to describe the differences. However they both output the same
+  required string. Now <em>for</em> because errors happen, apparently a valid value
+  for the user in the response is also null:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-keyword\\">const</span> response = {
+  <span class=\\"hljs-attr\\">messages</span>: [
+    {
+      <span class=\\"hljs-attr\\">user</span>: {
+        <span class=\\"hljs-attr\\">name</span>: <span class=\\"hljs-string\\">'Kosh'</span>,
+        <span class=\\"hljs-attr\\">species</span>: <span class=\\"hljs-string\\">'Vorlon'</span>
+      },
+      <span class=\\"hljs-attr\\">text</span>: <span class=\\"hljs-string\\">'Who are you?'</span>
+    },
+    {
+      <span class=\\"hljs-attr\\">user</span>: <span class=\\"hljs-literal\\">null</span>,
+      <span class=\\"hljs-attr\\">text</span>: <span class=\\"hljs-string\\">'What do you want?'</span>,
+    },
+  ]
+}
+</code></pre>
+<p>How were we to know? :(</p>
+<p>
+  If you guessed it, yes this is the cause of the error you first saw
+  at the start of the post.
+</p>
+<p>
+  Lets see this while using \\"Pause on Exception\\" in Chromium and compare the
+  styles side by side:
+</p>
+<p>Functional:</p>
+<p><img src=\\"/assets/fp-debugging/example-fp-ramda-exception.png\\" alt=\\"Functional exception example\\"></p>
+<p>Imperative:</p>
+<p><img src=\\"/assets/fp-debugging/example-imperative-exception.png\\" alt=\\"Imperative exception example\\"></p>
+<p>
+  In this particular scenario, it's almost like black and white. The imperative
+  call stack shows you the exact function name and line number you need to
+  understand the issue.
+</p>
+<h3><a href=\\"#why-continue-with-a-functional-style\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Why continue with a functional style?</h3>
+<p>
+  It is ironic that one reason people become interested in functional programming,
+  is that the code can be easier to reason about. In this case something that
+  was ok to read in an imperative style, now produces errors that seem way
+  more complicated in a functional one.
+</p>
+<p>
+  Outside of this example, the cause of the issue may not be from something as
+  simple, or as unlikely, as a server response returning an unexpected payload
+  signature. Knowing why the value was <code>null</code> can be far less trivial.
+</p>
+<p>
+  From what I know so far, I'll try to describe a functional programmer's worst
+  nightmare. Consider the error happens inside a class with deep inheritance,
+  on property with imperative style code. This code is mutating a complex
+  local state, that can also be influenced by undocumented, hard to infer and
+  predict, side-effects. In this scenario, it is often difficult to follow and
+  reproduce object states. Especially states that you first see only after
+  development in qa or production. Even worse are states that only seem to be
+  happening on every other machine but your own.
+</p>
+<p>
+  The <code>Functional vs Imperative</code> discussion is out of the scope of this post.
+  So put away your fighting gloves, it has probably all been said before ;)
+</p>
+<p>
+  Anyway, hope is not lost in understanding Errors like this, lets work through
+  some techniques for debugging.
+</p>
+<h3><a href=\\"#devtools-black-boxing\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Devtools Black boxing</h3>
+<p>
+  Just like any other Javascript project with a lot of dependencies, we can use
+  the <a href=\\"https://developer.chrome.com/devtools/docs/blackboxing\\">black boxing</a> feature that most mainstream browser's
+  devtools provide. Effectively we can filter out from view stack lines from the
+  dependencies we are not currently concerned with.
+</p>
+<p>
+  So using the example above, here is the \\"Pause on Uncaught Exceptions\\" of the
+  functional example with all the Ramda lines blackboxed:
+</p>
+<p><img src=\\"/assets/fp-debugging/example-blacklist-ramda-exception.png\\" alt=\\"Black boxing Ramda\\"></p>
+<p>
+  Yay in this case, after hiding 20 frames of Ramda, you can now see where I
+  wrote code on <code>main.tsx:24</code>. This is exactly where I invoked the point-free method that leads to the exception.
+</p>
+<p>
+  It's useful to know that these filters can be stay persistent on reload and
+  also support a Regex if you need to filter out something more specific.
+  Blackboxing also has <a href=\\"https://developer.chrome.com/devtools/docs/blackboxing#what-happens\\">these effects</a> to be aware of:
+</p>
+<blockquote>
+  <ul>
+    <li>Exceptions thrown from library code will not pause (if Pause on exceptions is enabled),</li>
+    <li>Stepping into/out/over bypasses the library code,</li>
+    <li>Event listener breakpoints don't break in library code,</li>
+    <li>The debugger will not pause on any breakpoints set in library code.</li>
+  </ul>
+</blockquote>
+<h3><a href=\\"#stack-trace-limit\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Stack trace limit</h3>
+<p>
+  If you are writing a lot of functional style code, it's common for the stack
+  trace to be quite large. For obvious performance reasons, browsers set limits.
+  So if you are in real pinch, some browsers like Chromium allow you to
+  increase the stack trace limit through this global api:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-built_in\\">Error</span>.stackTraceLimit = number
+</code></pre>
+<p>Be mindful that this api is not something designed for you to use in production.</p>
+<h3><a href=\\"#wrapping-named-functions\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Wrapping named functions</h3>
+<p>
+  The advantage of knowing a function name in the stack trace of an
+  Unexpected Error provides obvious benefits. Best case is that if you are
+  familiar with the function names, you might immediately guess what is happening
+  given a particular error message.
+</p>
+<p>
+  Stacktraces themselves can also be useful if you are using some advanced error
+  logging tools. Perhaps you may want to group or search for particular errors
+  by a particular function name. This may show other insights like correlations
+  in the time it occurred.
+</p>
+<p>
+  You can add a named function to the stack trace of a point-free styled
+  function just by wrapping it in one:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-function\\"><span class=\\"hljs-keyword\\">function</span> <span class=\\"hljs-title\\">namedMessagesDisplayText</span>(<span class=\\"hljs-params\\">response</span>) </span>{
+  <span class=\\"hljs-comment\\">// the point-free style function</span>
+  <span class=\\"hljs-keyword\\">return</span> messagesDisplayText(response)
+}
+</code></pre>
+<p>
+  Now inspecting the call stack, you should see the function name
+  <code>namedMessagesDisplayText</code>:
+</p>
+<p><img src=\\"/assets/fp-debugging/example-named-function-exception.png\\" alt=\\"Black boxing Ramda\\"></p>
+<p>
+  With this in mind, you could avoid the redundant function by holding back on
+  the purely <code>point-free</code> style and write this instead:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-function\\"><span class=\\"hljs-keyword\\">function</span> <span class=\\"hljs-title\\">messagesDisplayText</span> (<span class=\\"hljs-params\\">response</span>) </span>{
+  <span class=\\"hljs-keyword\\">return</span> R.pipe(
+    R.prop(<span class=\\"hljs-string\\">'messages'</span>),
+    R.map(userDisplayText),
+    R.join(<span class=\\"hljs-string\\">', '</span>)
+  )(response)
+}
+</code></pre>
+<h3><a href=\\"#logging-helpers\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Logging helpers</h3>
+<p>
+  It won't help you improve a stack trace, but it can be an invaluable tool
+  in understanding an error or following data in a functional style control flow.
+</p>
+<p>
+  The gist is to simply create logging functions that you can insert into
+  your compositions:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-keyword\\">const</span> traceUser = <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">data</span>) =></span> {
+  <span class=\\"hljs-built_in\\">console</span>.log(<span class=\\"hljs-string\\">'the user'</span>, data)
+  <span class=\\"hljs-keyword\\">return</span> data
+}
+
+<span class=\\"hljs-keyword\\">const</span> userLabelText = R.pipe(
+  R.prop([<span class=\\"hljs-string\\">'user'</span>]),
+  traceUser, <span class=\\"hljs-comment\\">// &#x3C;-- just another part of the pipe :)</span>
+  R.props([<span class=\\"hljs-string\\">'name'</span>, <span class=\\"hljs-string\\">'species'</span>]),
+  R.intersperse(<span class=\\"hljs-string\\">'is a'</span>),
+  R.join(<span class=\\"hljs-string\\">' '</span>)
+)
+</code></pre>
+<p>Now in your console or logging utils you can see what's happening:</p>
+<pre><code class=\\"hljs language-crmsh\\">// the <span class=\\"hljs-keyword\\">user</span> <span class=\\"hljs-title\\">{role</span>: <span class=\\"hljs-string\\">\\"The first ones\\"</span>, name: <span class=\\"hljs-string\\">\\"Kosh\\"</span>, species: <span class=\\"hljs-string\\">\\"Vorlon\\"</span>}
+// main.tsx:<span class=\\"hljs-number\\">26</span> the <span class=\\"hljs-keyword\\">user</span> <span class=\\"hljs-title\\">null</span>
+</code></pre>
+<h3><a href=\\"#breakpoints\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Breakpoints</h3>
+<p>
+  If you want to use a break point in a functional composition, in this example
+  I think it is less straight forward compared to the imperative style code.
+</p>
+<p>
+  If you tried to put a break point on a line in a pipe or compose it just wont work. Or if you try to \\"step into\\" a functional pattern like a <a href=\\"http://ramdajs.com/docs/#cond\\">R.cond</a>
+  that essentially encapsulates a <code>if/else, if/else</code>, you will have to
+  step through library code increasing the call stack size. If it was just an
+  <code>if {} else ..</code> or perhaps a <code>switch</code> statement, the debugger is only going
+  to step through your code.
+</p>
+<p>
+  Thankfully Blackboxing in devtools as shown above, can help avoid this
+  by automatically telling the debugger to step over blackboxed lines.
+</p>
+<p>
+  To be more precise in a composition however, you can always make use of the
+  <a href=\\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger\\">debugger</a> statement. So expanding on the logging
+  function idea, just add it to a helper function:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-keyword\\">const</span> debug = <span class=\\"hljs-function\\"><span class=\\"hljs-params\\">item</span> =></span> {
+  <span class=\\"hljs-keyword\\">debugger</span> <span class=\\"hljs-comment\\">// &#x3C;-- break here</span>
+  <span class=\\"hljs-keyword\\">return</span> item
+}
+
+<span class=\\"hljs-keyword\\">const</span> userLabelText = R.pipe(
+  R.prop([<span class=\\"hljs-string\\">'user'</span>]),
+  debug, <span class=\\"hljs-comment\\">// &#x3C;-- put this wherever in the pipe you need to</span>
+  R.props([<span class=\\"hljs-string\\">'name'</span>, <span class=\\"hljs-string\\">'species'</span>]),
+  R.intersperse(<span class=\\"hljs-string\\">'is a'</span>),
+  R.join(<span class=\\"hljs-string\\">' '</span>)
+)
+</code></pre>
+<p>
+  I find this particularly useful when learning the apis and thinking in
+  the functional style.
+</p>
+<p>
+  If you haven't used it before, the <a href=\\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger\\">debugger statement</a>
+  instructs the the devtools to break. This will only happen if you have a
+  devtools window open and connected. The great part about using it is that
+  there is no need to manually find the line and insert it the break point
+  manually. With something like hot reloading, often you just hit save on the
+  keyboard and wait for a devtools window take focus exactly where you wanted
+  it to be.
+</p>
+<p>
+  Since this is just like any other statement in your code, you can also wrap
+  it in any expression to have a conditional break point:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-keyword\\">const</span> debug = <span class=\\"hljs-function\\"><span class=\\"hljs-params\\">item</span> =></span> {
+  <span class=\\"hljs-keyword\\">if</span> (item === <span class=\\"hljs-literal\\">null</span>) <span class=\\"hljs-keyword\\">debugger</span>
+  <span class=\\"hljs-keyword\\">return</span> item
+}
+</code></pre>
+<h3><a href=\\"#monkey-patching\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Monkey patching</h3>
+<p>
+  An interesting approach intended for development only, is to wrap a
+  higher order function to capture context like the function name and custom
+  stack trace by throwing and capturing an error. <code>@jacobp100</code> has a
+  <a href=\\"https://medium.com/@jacobp100/debugging-functional-libraries-in-javascript-f586cdf8ea4\\">cool example using Ramda pipe</a> worth checking out.
+  I imagine this idea could be useful in other creative ways.
+</p>
+<h3><a href=\\"#runtime-type-system\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Runtime type system</h3>
+<p>
+  To provide some more useful error messages extra context from the runtime can
+  help. <a href=\\"https://github.com/sanctuary-js/sanctuary#type-checking\\">Sanctuary</a> allows messages and documentation
+  in place. They are similar to a <a href=\\"https://github.com/power-assert-js/power-assert\\">power assert like</a> error message:
+</p>
+<pre><code class=\\"hljs language-awk\\">S.add(<span class=\\"hljs-number\\">2</span>, true);
+<span class=\\"hljs-regexp\\">//</span> ! TypeError: Invalid value
+<span class=\\"hljs-regexp\\">//</span>
+<span class=\\"hljs-regexp\\">//</span>   add :: FiniteNumber -> FiniteNumber -> FiniteNumber
+<span class=\\"hljs-regexp\\">//</span>                          ^^^^^^^^^^^^
+<span class=\\"hljs-regexp\\">//</span>                               <span class=\\"hljs-number\\">1</span>
+<span class=\\"hljs-regexp\\">//</span>
+<span class=\\"hljs-regexp\\">//</span>   <span class=\\"hljs-number\\">1</span>)  true :: Boolean
+<span class=\\"hljs-regexp\\">//</span>
+<span class=\\"hljs-regexp\\">//</span>   The value at position <span class=\\"hljs-number\\">1</span> is not a member of ‘FiniteNumber’.
+<span class=\\"hljs-regexp\\">//</span>
+<span class=\\"hljs-regexp\\">//</span>   See https:<span class=\\"hljs-regexp\\">//gi</span>thub.com<span class=\\"hljs-regexp\\">/sanctuary-js/</span>sanctuary-def<span class=\\"hljs-regexp\\">/tree/</span>v0.<span class=\\"hljs-number\\">14.0</span><span class=\\"hljs-comment\\">#FiniteNumber for information about the sanctuary-def/FiniteNumber type.</span>
+</code></pre>
+<h3><a href=\\"#compile-time-type-checking\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Compile time type checking</h3>
+<p>
+  <a href=\\"http://www.typescriptlang.org/\\">Typescript</a> can be of huge benefit to a functional style for
+  catching errors at compile time or in an ide.
+</p>
+<p>
+  This can't help you while really debugging an error from the runtime.
+  If you are starting to type functional code, it should be said that incorrectly
+  typed code can lead to introducing errors that only show while in
+  the runtime. So blindly trusting complex types can lead to a false
+  sense of security.
+</p>
+<p>
+  In some scenarios, I have found that strictly typing everything
+  religiously can be quite cumbersome with little return. For example,
+  think about strictly typing a large <a href=\\"http://ramdajs.com/docs/#pipe\\">pipe</a> or
+  <a href=\\"http://ramdajs.com/docs/#compose\\">compose</a> with <a href=\\"https://www.typescriptlang.org/docs/handbook/generics.html\\">Generics</a> from the
+  Ramda <a href=\\"https://github.com/types/npm-ramda\\">@types/ramda</a> definitions.
+</p>
+<p>For a reasonably large pipe, consider strict compliance with this interface:</p>
+<pre><code class=\\"hljs language-ts\\">pipe&#x3C;V0, T1, T2, T3, T4, T5, T6, T7, T8, T9>(
+    fn0: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x0: V0</span>) =></span> T1,
+    fn1: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T1</span>) =></span> T2,
+    fn2: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T2</span>) =></span> T3,
+    fn3: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T3</span>) =></span> T4,
+    fn4: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T4</span>) =></span> T5,
+    fn5: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T5</span>) =></span> T6,
+    fn6: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T6</span>) =></span> T7,
+    fn7: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T7</span>) =></span> T8,
+    fn8: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T8</span>) =></span> T9): <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x0: V0</span>) =></span> T9;
+</code></pre>
+<p>Another smaller example, without the line breaks:</p>
+<pre><code class=\\"hljs language-ts\\">compose&#x3C;V0, T1, T2, T3, T4, T5, T6><span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">fn5: (<span class=\\"hljs-params\\">x: T5</span>) => T6, fn4: (<span class=\\"hljs-params\\">x: T4</span>) => T5, fn3: (<span class=\\"hljs-params\\">x: T3</span>) => T4, fn2: (<span class=\\"hljs-params\\">x: T2</span>) => T3, fn1: (<span class=\\"hljs-params\\">x: T1</span>) => T2, fn0: (<span class=\\"hljs-params\\">x: V0</span>) => T1</span>): (<span class=\\"hljs-params\\">x: V0</span>) =></span> T6
+</code></pre>
+<p>
+  I think this is quite prone to user error and frustration. Your Types most
+  probably have names longer than two characters, so you may need
+  text wrapping on. I found that it can take longer to write in the Generics
+  than it does to write the composition itself.
+</p>
+<p>
+  Rather than typing the entire compose, I'd suggest it is more
+  important to wrap it in a named function, strictly type all the input
+  and output and add a reasonable amount of test coverage.
+</p>
+<p>
+  Don't let this scare you from the <a href=\\"https://github.com/types/npm-ramda\\">@types/ramda</a> though. I am
+  probably cherry picking the worst case. It's actually mostly, wonderful to use
+  and can be invaluable when you need to refactor code.
+</p>
+<h3><a href=\\"#final-thoughts\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Final thoughts</h3>
+<p>
+  While error stack traces may not always be the only, nor the most helpful
+  way to understand errors, they are still useful in development, qa
+  and production. Being ready to handle errors for Javascript running in
+  cross-platform and multi-vendor web browsers I think is a must. Consider
+  also other external factors like conflicting browser extensions,
+  local network topologies and connectivity, it is hard not to describe
+  this as a volatile environment.
+</p>
+<p>
+  With this in mind, an entire industry of tooling now exists to provide some
+  powerful ways to capture errors, user breadcrumbs and error stack traces as
+  they happen. If you aren't using anything, a great solution to checkout is
+  <a href=\\"https://github.com/getsentry/sentry\\">sentry</a> which is also BSD3 licenced.
+</p>
+<p>
+  A functional programming style is no silver bullet, especially when you use
+  it in browsers and Javascript. If you are writing a lot of functional code
+  in a large complex codebase. My recommendation is not to start out by using
+  an entirely <a href=\\"https://en.wikipedia.org/wiki/Tacit_programming\\">point-free</a> style. Instead make sure to couple
+  a healthy use of named functions on the main business logic and public apis.
+  Also look into typing those functions properly with <a href=\\"http://www.typescriptlang.org/\\">Typescript</a>
+  or <a href=\\"https://flow.org/\\">Flow</a> so that it is easier to maintain and refactor.
+</p>
+<p>
+  I couldn't find too much else written about this kind of thing.
+  So I encourage others to. Unless you suggest people invest in a monitor stand
+  that supports Portrait mode.
+  That way all of the Call Stack can fit into the view ;)
+</p>
+<p>
+  I'd like to credit a fantastic book on functional programming
+  <a href=\\"https://mostly-adequate.gitbooks.io/mostly-adequate-guide/ch05.html#debugging\\">mostly adequate guide</a>, the logging technique
+  is also mentioned in the debugging section.
+</p>
+",
+      }
+    }
+  />
+  <footer
+    className="sc-chPdSV gsnIzH"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      christopherdecoster.com
+    </a>
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      Posts
+    </a>
+  </footer>
+</article>
+`;
+
+exports[`Storyshots routes/post:id/components/content 0 1`] = `
+<section
+  className="sc-kAzzGY lfLalu"
+  dangerouslySetInnerHTML={
+    Object {
+      "__html": "
+<p>
+  After exploring functional style programming in Javascript I'd like to write
+  about some trade offs worth thinking about when debugging. This post is rather
+  opinionated but offers some techniques to make thing's easier.
+</p>
+<p>
+  I will assume some familiarity with basic functional programming concepts.
+  Some of the issues I bring up are not specific to functional pattens per-se.
+</p>
+<p>
+  If you write 100% typo freee, perfect code all the time, you may find this
+  a little dry. Or if you think it would be ok for Apple to remove the backspace
+  key like they did with the escape key, you should probably move on :/
+</p>
+<p>
+  The purpose of this is not to discourage anyone from writing in a more
+  functional style. Nor is it to discourage the use of one of the great quality
+  functional libraries out there like <a href=\\"http://ramdajs.com/\\">Ramda</a>, <a href=\\"https://github.com/lodash/lodash/wiki/FP-Guide\\">lodash_fp</a> or
+  <a href=\\"https://sanctuary.js.org/\\">Sanctuary</a>. I enjoy writing code in a more functional style and
+  understand many good reasons to use and promote it.
+</p>
+<p><em>Enough with the disclaimers</em>.</p>
+<p>
+  I have found that in certain contexts, particularly with using a
+  <a href=\\"https://en.wikipedia.org/wiki/Tacit_programming\\">tacit / point-free</a> programming style in Javascript,
+  it can lead to obfuscation of stack traces and barriers to debugging.
+</p>
+<p>
+  Lets start by looking at a stack trace from an unexpected error in some
+  functional style code. It's probably just some silly typo, in this case it's
+  from some something rather \\"simple\\" using the <a href=\\"http://ramdajs.com/\\">Ramda</a> library:
+</p>
+<p><img src=\\"/assets/fp-debugging/example-fp-ramda-exception.png\\" alt=\\"Functional exception example\\"></p>
+<p>
+  When seeing this kind of thing, I can't help but be reminded of the
+  frustration I have seen and experienced myself while writing and debugging
+  <code>Angularjs 1.x</code> console errors.
+</p>
+<p>In this situation it can be pretty tempting to naively think:</p>
+<blockquote>
+  <p>
+    \\"If an Error's Call Stack only shows lines from a dependency,
+    the error therefore must be a bug in the dependency!\\"
+  </p>
+  <ul>
+    <li>A thought no programmer ever had &#x3C;-- Sarcasm</li>
+  </ul>
+</blockquote>
+<p>
+  How many issues on github and so on have you seen closed from someone commenting
+  something like:
+</p>
+<blockquote>
+  <p>\\"Woops sorry my fault, I didn't see the...\\"</p>
+</blockquote>
+<p>
+  Wishful thinking aside, you need to solve this error whether it is your
+  code or not. From the message it's probably hard to tell where in your code
+  something named as generically as \\"name\\" is being referenced. For all you
+  know, it could be some smarts that is using the name property on
+  the <a href=\\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/name\\">function prototype</a>.
+</p>
+<p>
+  What we can see in the call stack are function names from very
+  common functional patterns like <code>pipe</code>, <code>curry</code> and <code>map</code>. Problem is,
+  you are probably using these all over your codebase. So this is about as
+  good as knowing that a code path is using <code>if</code> and <code>else</code> statements.
+  Useless, if this came from production, good luck in knowing where to
+  effectively start debugging the issue.
+</p>
+<p>
+  So why would a more functional style of programming lead to an obfuscated
+  stack trace like this?
+</p>
+<p>It is a combination of:</p>
+<ul>
+  <li><a href=\\"https://en.wikipedia.org/wiki/Currying\\">Function currying</a></li>
+  <li><a href=\\"https://en.wikipedia.org/wiki/Tacit_programming\\">Tacit / Point-free</a> styles</li>
+  <li>The dynamic nature of Javascript</li>
+  <li>Async methods</li>
+  <li>Large amounts of library code</li>
+</ul>
+<p>
+  All of this has the side effect of filling the call stack with function names
+  that are usually anonymous or from a dependency if they are not totally mangled
+  from some magnification. Now the browser's call stack size is after all
+  limited. I'll show you how to increase it a little further on.
+</p>
+<h3><a href=\\"#comparing-imperative-and-functional-examples\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Comparing imperative and functional examples</h3>
+<p>
+  This is all easier to think about with a simple code example. Code from less
+  trivial and larger codebases will most likely, have longer stack traces and
+  if you just walked in, it could be even harder to reason about.
+</p>
+<p>In this example, imagine we are given the following object from a service.</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-keyword\\">const</span> response = {
+  <span class=\\"hljs-attr\\">messages</span>: [
+    {
+      <span class=\\"hljs-attr\\">user</span>: {
+        <span class=\\"hljs-attr\\">role</span>: <span class=\\"hljs-string\\">'The first ones'</span>,
+        <span class=\\"hljs-attr\\">name</span>: <span class=\\"hljs-string\\">'Kosh'</span>,
+        <span class=\\"hljs-attr\\">species</span>: <span class=\\"hljs-string\\">'Vorlon'</span>
+      },
+      <span class=\\"hljs-attr\\">text</span>: <span class=\\"hljs-string\\">'Who are you?'</span>
+    }
+  ]
+}
+</code></pre>
+<p>
+  We are required to display some comma separated text in a view. The text must
+  contain a list of all the user names and their species. Each user needs to be
+  in the following format:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-string\\">\`<span class=\\"hljs-subst\\">\${userName}</span> is a <span class=\\"hljs-subst\\">\${species}</span>\`</span>
+
+<span class=\\"hljs-comment\\">// Eg =>  Kosh is a Vorlon, ...</span>
+</code></pre>
+<p>To illustrate, let's implement this using a couple of different styles.</p>
+<h4><a href=\\"#functional-point-free\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Functional point-free</h4>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-keyword\\">const</span> userDisplayText = R.pipe(
+  R.prop([<span class=\\"hljs-string\\">'user'</span>]),
+  R.props([<span class=\\"hljs-string\\">'name'</span>, <span class=\\"hljs-string\\">'species'</span>]),
+  R.intersperse(<span class=\\"hljs-string\\">'is a'</span>),
+  R.join(<span class=\\"hljs-string\\">' '</span>)
+)
+
+<span class=\\"hljs-keyword\\">const</span> messagesDisplayText = R.pipe(
+  R.prop(<span class=\\"hljs-string\\">'messages'</span>),
+  R.map(userDisplayText),
+  R.join(<span class=\\"hljs-string\\">', '</span>)
+)
+</code></pre>
+<h4><a href=\\"#imperative\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Imperative</h4>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-function\\"><span class=\\"hljs-keyword\\">function</span> <span class=\\"hljs-title\\">messagesDisplayText</span>(<span class=\\"hljs-params\\">response</span>) </span>{
+  <span class=\\"hljs-keyword\\">var</span> users = []
+  <span class=\\"hljs-keyword\\">for</span> (<span class=\\"hljs-keyword\\">var</span> i = <span class=\\"hljs-number\\">0</span>; i &#x3C; response.messages.length; i++) {
+    <span class=\\"hljs-keyword\\">var</span> user = response.messages[i].user
+    <span class=\\"hljs-keyword\\">var</span> details = [
+      user.name,
+      <span class=\\"hljs-string\\">'is a'</span>,
+      user.species
+    ]
+    users.push(details.join(<span class=\\"hljs-string\\">' '</span>))
+  }
+  <span class=\\"hljs-keyword\\">return</span> users.join(<span class=\\"hljs-string\\">', '</span>);
+}
+</code></pre>
+<p>
+  Yes these are strange and imperfect ways to implement this, it's only
+  intended to describe the differences. However they both output the same
+  required string. Now <em>for</em> because errors happen, apparently a valid value
+  for the user in the response is also null:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-keyword\\">const</span> response = {
+  <span class=\\"hljs-attr\\">messages</span>: [
+    {
+      <span class=\\"hljs-attr\\">user</span>: {
+        <span class=\\"hljs-attr\\">name</span>: <span class=\\"hljs-string\\">'Kosh'</span>,
+        <span class=\\"hljs-attr\\">species</span>: <span class=\\"hljs-string\\">'Vorlon'</span>
+      },
+      <span class=\\"hljs-attr\\">text</span>: <span class=\\"hljs-string\\">'Who are you?'</span>
+    },
+    {
+      <span class=\\"hljs-attr\\">user</span>: <span class=\\"hljs-literal\\">null</span>,
+      <span class=\\"hljs-attr\\">text</span>: <span class=\\"hljs-string\\">'What do you want?'</span>,
+    },
+  ]
+}
+</code></pre>
+<p>How were we to know? :(</p>
+<p>
+  If you guessed it, yes this is the cause of the error you first saw
+  at the start of the post.
+</p>
+<p>
+  Lets see this while using \\"Pause on Exception\\" in Chromium and compare the
+  styles side by side:
+</p>
+<p>Functional:</p>
+<p><img src=\\"/assets/fp-debugging/example-fp-ramda-exception.png\\" alt=\\"Functional exception example\\"></p>
+<p>Imperative:</p>
+<p><img src=\\"/assets/fp-debugging/example-imperative-exception.png\\" alt=\\"Imperative exception example\\"></p>
+<p>
+  In this particular scenario, it's almost like black and white. The imperative
+  call stack shows you the exact function name and line number you need to
+  understand the issue.
+</p>
+<h3><a href=\\"#why-continue-with-a-functional-style\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Why continue with a functional style?</h3>
+<p>
+  It is ironic that one reason people become interested in functional programming,
+  is that the code can be easier to reason about. In this case something that
+  was ok to read in an imperative style, now produces errors that seem way
+  more complicated in a functional one.
+</p>
+<p>
+  Outside of this example, the cause of the issue may not be from something as
+  simple, or as unlikely, as a server response returning an unexpected payload
+  signature. Knowing why the value was <code>null</code> can be far less trivial.
+</p>
+<p>
+  From what I know so far, I'll try to describe a functional programmer's worst
+  nightmare. Consider the error happens inside a class with deep inheritance,
+  on property with imperative style code. This code is mutating a complex
+  local state, that can also be influenced by undocumented, hard to infer and
+  predict, side-effects. In this scenario, it is often difficult to follow and
+  reproduce object states. Especially states that you first see only after
+  development in qa or production. Even worse are states that only seem to be
+  happening on every other machine but your own.
+</p>
+<p>
+  The <code>Functional vs Imperative</code> discussion is out of the scope of this post.
+  So put away your fighting gloves, it has probably all been said before ;)
+</p>
+<p>
+  Anyway, hope is not lost in understanding Errors like this, lets work through
+  some techniques for debugging.
+</p>
+<h3><a href=\\"#devtools-black-boxing\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Devtools Black boxing</h3>
+<p>
+  Just like any other Javascript project with a lot of dependencies, we can use
+  the <a href=\\"https://developer.chrome.com/devtools/docs/blackboxing\\">black boxing</a> feature that most mainstream browser's
+  devtools provide. Effectively we can filter out from view stack lines from the
+  dependencies we are not currently concerned with.
+</p>
+<p>
+  So using the example above, here is the \\"Pause on Uncaught Exceptions\\" of the
+  functional example with all the Ramda lines blackboxed:
+</p>
+<p><img src=\\"/assets/fp-debugging/example-blacklist-ramda-exception.png\\" alt=\\"Black boxing Ramda\\"></p>
+<p>
+  Yay in this case, after hiding 20 frames of Ramda, you can now see where I
+  wrote code on <code>main.tsx:24</code>. This is exactly where I invoked the point-free method that leads to the exception.
+</p>
+<p>
+  It's useful to know that these filters can be stay persistent on reload and
+  also support a Regex if you need to filter out something more specific.
+  Blackboxing also has <a href=\\"https://developer.chrome.com/devtools/docs/blackboxing#what-happens\\">these effects</a> to be aware of:
+</p>
+<blockquote>
+  <ul>
+    <li>Exceptions thrown from library code will not pause (if Pause on exceptions is enabled),</li>
+    <li>Stepping into/out/over bypasses the library code,</li>
+    <li>Event listener breakpoints don't break in library code,</li>
+    <li>The debugger will not pause on any breakpoints set in library code.</li>
+  </ul>
+</blockquote>
+<h3><a href=\\"#stack-trace-limit\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Stack trace limit</h3>
+<p>
+  If you are writing a lot of functional style code, it's common for the stack
+  trace to be quite large. For obvious performance reasons, browsers set limits.
+  So if you are in real pinch, some browsers like Chromium allow you to
+  increase the stack trace limit through this global api:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-built_in\\">Error</span>.stackTraceLimit = number
+</code></pre>
+<p>Be mindful that this api is not something designed for you to use in production.</p>
+<h3><a href=\\"#wrapping-named-functions\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Wrapping named functions</h3>
+<p>
+  The advantage of knowing a function name in the stack trace of an
+  Unexpected Error provides obvious benefits. Best case is that if you are
+  familiar with the function names, you might immediately guess what is happening
+  given a particular error message.
+</p>
+<p>
+  Stacktraces themselves can also be useful if you are using some advanced error
+  logging tools. Perhaps you may want to group or search for particular errors
+  by a particular function name. This may show other insights like correlations
+  in the time it occurred.
+</p>
+<p>
+  You can add a named function to the stack trace of a point-free styled
+  function just by wrapping it in one:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-function\\"><span class=\\"hljs-keyword\\">function</span> <span class=\\"hljs-title\\">namedMessagesDisplayText</span>(<span class=\\"hljs-params\\">response</span>) </span>{
+  <span class=\\"hljs-comment\\">// the point-free style function</span>
+  <span class=\\"hljs-keyword\\">return</span> messagesDisplayText(response)
+}
+</code></pre>
+<p>
+  Now inspecting the call stack, you should see the function name
+  <code>namedMessagesDisplayText</code>:
+</p>
+<p><img src=\\"/assets/fp-debugging/example-named-function-exception.png\\" alt=\\"Black boxing Ramda\\"></p>
+<p>
+  With this in mind, you could avoid the redundant function by holding back on
+  the purely <code>point-free</code> style and write this instead:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-function\\"><span class=\\"hljs-keyword\\">function</span> <span class=\\"hljs-title\\">messagesDisplayText</span> (<span class=\\"hljs-params\\">response</span>) </span>{
+  <span class=\\"hljs-keyword\\">return</span> R.pipe(
+    R.prop(<span class=\\"hljs-string\\">'messages'</span>),
+    R.map(userDisplayText),
+    R.join(<span class=\\"hljs-string\\">', '</span>)
+  )(response)
+}
+</code></pre>
+<h3><a href=\\"#logging-helpers\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Logging helpers</h3>
+<p>
+  It won't help you improve a stack trace, but it can be an invaluable tool
+  in understanding an error or following data in a functional style control flow.
+</p>
+<p>
+  The gist is to simply create logging functions that you can insert into
+  your compositions:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-keyword\\">const</span> traceUser = <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">data</span>) =></span> {
+  <span class=\\"hljs-built_in\\">console</span>.log(<span class=\\"hljs-string\\">'the user'</span>, data)
+  <span class=\\"hljs-keyword\\">return</span> data
+}
+
+<span class=\\"hljs-keyword\\">const</span> userLabelText = R.pipe(
+  R.prop([<span class=\\"hljs-string\\">'user'</span>]),
+  traceUser, <span class=\\"hljs-comment\\">// &#x3C;-- just another part of the pipe :)</span>
+  R.props([<span class=\\"hljs-string\\">'name'</span>, <span class=\\"hljs-string\\">'species'</span>]),
+  R.intersperse(<span class=\\"hljs-string\\">'is a'</span>),
+  R.join(<span class=\\"hljs-string\\">' '</span>)
+)
+</code></pre>
+<p>Now in your console or logging utils you can see what's happening:</p>
+<pre><code class=\\"hljs language-crmsh\\">// the <span class=\\"hljs-keyword\\">user</span> <span class=\\"hljs-title\\">{role</span>: <span class=\\"hljs-string\\">\\"The first ones\\"</span>, name: <span class=\\"hljs-string\\">\\"Kosh\\"</span>, species: <span class=\\"hljs-string\\">\\"Vorlon\\"</span>}
+// main.tsx:<span class=\\"hljs-number\\">26</span> the <span class=\\"hljs-keyword\\">user</span> <span class=\\"hljs-title\\">null</span>
+</code></pre>
+<h3><a href=\\"#breakpoints\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Breakpoints</h3>
+<p>
+  If you want to use a break point in a functional composition, in this example
+  I think it is less straight forward compared to the imperative style code.
+</p>
+<p>
+  If you tried to put a break point on a line in a pipe or compose it just wont work. Or if you try to \\"step into\\" a functional pattern like a <a href=\\"http://ramdajs.com/docs/#cond\\">R.cond</a>
+  that essentially encapsulates a <code>if/else, if/else</code>, you will have to
+  step through library code increasing the call stack size. If it was just an
+  <code>if {} else ..</code> or perhaps a <code>switch</code> statement, the debugger is only going
+  to step through your code.
+</p>
+<p>
+  Thankfully Blackboxing in devtools as shown above, can help avoid this
+  by automatically telling the debugger to step over blackboxed lines.
+</p>
+<p>
+  To be more precise in a composition however, you can always make use of the
+  <a href=\\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger\\">debugger</a> statement. So expanding on the logging
+  function idea, just add it to a helper function:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-keyword\\">const</span> debug = <span class=\\"hljs-function\\"><span class=\\"hljs-params\\">item</span> =></span> {
+  <span class=\\"hljs-keyword\\">debugger</span> <span class=\\"hljs-comment\\">// &#x3C;-- break here</span>
+  <span class=\\"hljs-keyword\\">return</span> item
+}
+
+<span class=\\"hljs-keyword\\">const</span> userLabelText = R.pipe(
+  R.prop([<span class=\\"hljs-string\\">'user'</span>]),
+  debug, <span class=\\"hljs-comment\\">// &#x3C;-- put this wherever in the pipe you need to</span>
+  R.props([<span class=\\"hljs-string\\">'name'</span>, <span class=\\"hljs-string\\">'species'</span>]),
+  R.intersperse(<span class=\\"hljs-string\\">'is a'</span>),
+  R.join(<span class=\\"hljs-string\\">' '</span>)
+)
+</code></pre>
+<p>
+  I find this particularly useful when learning the apis and thinking in
+  the functional style.
+</p>
+<p>
+  If you haven't used it before, the <a href=\\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger\\">debugger statement</a>
+  instructs the the devtools to break. This will only happen if you have a
+  devtools window open and connected. The great part about using it is that
+  there is no need to manually find the line and insert it the break point
+  manually. With something like hot reloading, often you just hit save on the
+  keyboard and wait for a devtools window take focus exactly where you wanted
+  it to be.
+</p>
+<p>
+  Since this is just like any other statement in your code, you can also wrap
+  it in any expression to have a conditional break point:
+</p>
+<pre><code class=\\"hljs language-js\\"><span class=\\"hljs-keyword\\">const</span> debug = <span class=\\"hljs-function\\"><span class=\\"hljs-params\\">item</span> =></span> {
+  <span class=\\"hljs-keyword\\">if</span> (item === <span class=\\"hljs-literal\\">null</span>) <span class=\\"hljs-keyword\\">debugger</span>
+  <span class=\\"hljs-keyword\\">return</span> item
+}
+</code></pre>
+<h3><a href=\\"#monkey-patching\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Monkey patching</h3>
+<p>
+  An interesting approach intended for development only, is to wrap a
+  higher order function to capture context like the function name and custom
+  stack trace by throwing and capturing an error. <code>@jacobp100</code> has a
+  <a href=\\"https://medium.com/@jacobp100/debugging-functional-libraries-in-javascript-f586cdf8ea4\\">cool example using Ramda pipe</a> worth checking out.
+  I imagine this idea could be useful in other creative ways.
+</p>
+<h3><a href=\\"#runtime-type-system\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Runtime type system</h3>
+<p>
+  To provide some more useful error messages extra context from the runtime can
+  help. <a href=\\"https://github.com/sanctuary-js/sanctuary#type-checking\\">Sanctuary</a> allows messages and documentation
+  in place. They are similar to a <a href=\\"https://github.com/power-assert-js/power-assert\\">power assert like</a> error message:
+</p>
+<pre><code class=\\"hljs language-awk\\">S.add(<span class=\\"hljs-number\\">2</span>, true);
+<span class=\\"hljs-regexp\\">//</span> ! TypeError: Invalid value
+<span class=\\"hljs-regexp\\">//</span>
+<span class=\\"hljs-regexp\\">//</span>   add :: FiniteNumber -> FiniteNumber -> FiniteNumber
+<span class=\\"hljs-regexp\\">//</span>                          ^^^^^^^^^^^^
+<span class=\\"hljs-regexp\\">//</span>                               <span class=\\"hljs-number\\">1</span>
+<span class=\\"hljs-regexp\\">//</span>
+<span class=\\"hljs-regexp\\">//</span>   <span class=\\"hljs-number\\">1</span>)  true :: Boolean
+<span class=\\"hljs-regexp\\">//</span>
+<span class=\\"hljs-regexp\\">//</span>   The value at position <span class=\\"hljs-number\\">1</span> is not a member of ‘FiniteNumber’.
+<span class=\\"hljs-regexp\\">//</span>
+<span class=\\"hljs-regexp\\">//</span>   See https:<span class=\\"hljs-regexp\\">//gi</span>thub.com<span class=\\"hljs-regexp\\">/sanctuary-js/</span>sanctuary-def<span class=\\"hljs-regexp\\">/tree/</span>v0.<span class=\\"hljs-number\\">14.0</span><span class=\\"hljs-comment\\">#FiniteNumber for information about the sanctuary-def/FiniteNumber type.</span>
+</code></pre>
+<h3><a href=\\"#compile-time-type-checking\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Compile time type checking</h3>
+<p>
+  <a href=\\"http://www.typescriptlang.org/\\">Typescript</a> can be of huge benefit to a functional style for
+  catching errors at compile time or in an ide.
+</p>
+<p>
+  This can't help you while really debugging an error from the runtime.
+  If you are starting to type functional code, it should be said that incorrectly
+  typed code can lead to introducing errors that only show while in
+  the runtime. So blindly trusting complex types can lead to a false
+  sense of security.
+</p>
+<p>
+  In some scenarios, I have found that strictly typing everything
+  religiously can be quite cumbersome with little return. For example,
+  think about strictly typing a large <a href=\\"http://ramdajs.com/docs/#pipe\\">pipe</a> or
+  <a href=\\"http://ramdajs.com/docs/#compose\\">compose</a> with <a href=\\"https://www.typescriptlang.org/docs/handbook/generics.html\\">Generics</a> from the
+  Ramda <a href=\\"https://github.com/types/npm-ramda\\">@types/ramda</a> definitions.
+</p>
+<p>For a reasonably large pipe, consider strict compliance with this interface:</p>
+<pre><code class=\\"hljs language-ts\\">pipe&#x3C;V0, T1, T2, T3, T4, T5, T6, T7, T8, T9>(
+    fn0: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x0: V0</span>) =></span> T1,
+    fn1: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T1</span>) =></span> T2,
+    fn2: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T2</span>) =></span> T3,
+    fn3: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T3</span>) =></span> T4,
+    fn4: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T4</span>) =></span> T5,
+    fn5: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T5</span>) =></span> T6,
+    fn6: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T6</span>) =></span> T7,
+    fn7: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T7</span>) =></span> T8,
+    fn8: <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x: T8</span>) =></span> T9): <span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">x0: V0</span>) =></span> T9;
+</code></pre>
+<p>Another smaller example, without the line breaks:</p>
+<pre><code class=\\"hljs language-ts\\">compose&#x3C;V0, T1, T2, T3, T4, T5, T6><span class=\\"hljs-function\\">(<span class=\\"hljs-params\\">fn5: (<span class=\\"hljs-params\\">x: T5</span>) => T6, fn4: (<span class=\\"hljs-params\\">x: T4</span>) => T5, fn3: (<span class=\\"hljs-params\\">x: T3</span>) => T4, fn2: (<span class=\\"hljs-params\\">x: T2</span>) => T3, fn1: (<span class=\\"hljs-params\\">x: T1</span>) => T2, fn0: (<span class=\\"hljs-params\\">x: V0</span>) => T1</span>): (<span class=\\"hljs-params\\">x: V0</span>) =></span> T6
+</code></pre>
+<p>
+  I think this is quite prone to user error and frustration. Your Types most
+  probably have names longer than two characters, so you may need
+  text wrapping on. I found that it can take longer to write in the Generics
+  than it does to write the composition itself.
+</p>
+<p>
+  Rather than typing the entire compose, I'd suggest it is more
+  important to wrap it in a named function, strictly type all the input
+  and output and add a reasonable amount of test coverage.
+</p>
+<p>
+  Don't let this scare you from the <a href=\\"https://github.com/types/npm-ramda\\">@types/ramda</a> though. I am
+  probably cherry picking the worst case. It's actually mostly, wonderful to use
+  and can be invaluable when you need to refactor code.
+</p>
+<h3><a href=\\"#final-thoughts\\" aria-hidden=\\"true\\"><span class=\\"icon icon-link\\"></span></a>Final thoughts</h3>
+<p>
+  While error stack traces may not always be the only, nor the most helpful
+  way to understand errors, they are still useful in development, qa
+  and production. Being ready to handle errors for Javascript running in
+  cross-platform and multi-vendor web browsers I think is a must. Consider
+  also other external factors like conflicting browser extensions,
+  local network topologies and connectivity, it is hard not to describe
+  this as a volatile environment.
+</p>
+<p>
+  With this in mind, an entire industry of tooling now exists to provide some
+  powerful ways to capture errors, user breadcrumbs and error stack traces as
+  they happen. If you aren't using anything, a great solution to checkout is
+  <a href=\\"https://github.com/getsentry/sentry\\">sentry</a> which is also BSD3 licenced.
+</p>
+<p>
+  A functional programming style is no silver bullet, especially when you use
+  it in browsers and Javascript. If you are writing a lot of functional code
+  in a large complex codebase. My recommendation is not to start out by using
+  an entirely <a href=\\"https://en.wikipedia.org/wiki/Tacit_programming\\">point-free</a> style. Instead make sure to couple
+  a healthy use of named functions on the main business logic and public apis.
+  Also look into typing those functions properly with <a href=\\"http://www.typescriptlang.org/\\">Typescript</a>
+  or <a href=\\"https://flow.org/\\">Flow</a> so that it is easier to maintain and refactor.
+</p>
+<p>
+  I couldn't find too much else written about this kind of thing.
+  So I encourage others to. Unless you suggest people invest in a monitor stand
+  that supports Portrait mode.
+  That way all of the Call Stack can fit into the view ;)
+</p>
+<p>
+  I'd like to credit a fantastic book on functional programming
+  <a href=\\"https://mostly-adequate.gitbooks.io/mostly-adequate-guide/ch05.html#debugging\\">mostly adequate guide</a>, the logging technique
+  is also mentioned in the debugging section.
+</p>
+",
+    }
+  }
+/>
+`;
+
+exports[`Storyshots routes/post:id/components/footer 0 1`] = `
+<footer
+  className="sc-chPdSV gsnIzH"
+>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    christopherdecoster.com
+  </a>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    Posts
+  </a>
+</footer>
+`;
+
+exports[`Storyshots routes/post:id/components/header 0 1`] = `
+<header
+  className="sc-kgoBCf gLCpLW"
+>
+  <h1>
+    Debugging Functional Javascript
+  </h1>
+  <label>
+    Working through errors and stacktraces to debug functional style javascript
+  </label>
+  <nav>
+    <a
+      className="home-button"
+      href="/"
+      onClick={[Function]}
+      title="Home"
+    >
+      <img
+        src="/assets/images/avatar.png"
+      />
+    </a>
+    <a
+      href="/posts"
+      onClick={[Function]}
+    >
+      Posts
+    </a>
+  </nav>
+</header>
+`;
+
+exports[`Storyshots routes/posts / 1`] = `
+<article
+  className="sc-kpOJdX eJIDjN"
+>
+  <header
+    className="sc-kGXeez exhUZQ"
+  >
+    <a
+      className="sc-VigVT itimkS sc-ifAKCX dryCgK"
+      href="/"
+      onClick={[Function]}
+      title={undefined}
+    >
+      <img
+        src="/assets/images/avatar.png"
+      />
+    </a>
+    <h1>
+      Posts
+    </h1>
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      Home
+    </a>
+  </header>
+  <ul>
+    <li>
+      <a
+        href="/posts/debugging-fp-js"
+        onClick={[Function]}
+      >
+        <h2>
+          Debugging Functional Javascript
+        </h2>
+        <label>
+          Working through errors and stacktraces to debug functional style javascript
+        </label>
+      </a>
+    </li>
+    <li>
+      <a
+        href="/posts/find-grep-ack"
+        onClick={[Function]}
+      >
+        <h2>
+          find, grep & ack
+        </h2>
+        <label>
+          code search tooling in the command line
+        </label>
+      </a>
+    </li>
+    <li>
+      <a
+        href="/posts/i3-wm"
+        onClick={[Function]}
+      >
+        <h2>
+          i3 display management
+        </h2>
+        <label>
+          Managing multiple displays with xrandr
+        </label>
+      </a>
+    </li>
+    <li>
+      <a
+        href="/posts/nightmare"
+        onClick={[Function]}
+      >
+        <h2>
+          Nightmare browser automation
+        </h2>
+        <label>
+          Browser automation with Electron
+        </label>
+      </a>
+    </li>
+    <li>
+      <a
+        href="/posts/react-fragments"
+        onClick={[Function]}
+      >
+        <h2>
+          React Fragments
+        </h2>
+        <label>
+          Avoiding a div soup with React Fragments
+        </label>
+      </a>
+    </li>
+    <li>
+      <a
+        href="/posts/react-portals"
+        onClick={[Function]}
+      >
+        <h2>
+          React Portals
+        </h2>
+        <label>
+          Control the dom structure of your React app with Portals
+        </label>
+      </a>
+    </li>
+    <li>
+      <a
+        href="/posts/reading-list"
+        onClick={[Function]}
+      >
+        <h2>
+          Reading list
+        </h2>
+        <label>
+          A collection of reading sources worth reading and sharing
+        </label>
+      </a>
+    </li>
+    <li>
+      <a
+        href="/posts/ssh-host-config"
+        onClick={[Function]}
+      >
+        <h2>
+          ssh \`Host\` configuration
+        </h2>
+        <label>
+          Configure ssh for multiple hosts
+        </label>
+      </a>
+    </li>
+    <li>
+      <a
+        href="/posts/static-site-cd"
+        onClick={[Function]}
+      >
+        <h2>
+          Static site cd
+        </h2>
+        <label>
+          Continuous deployment for a static website with git, rrsync and ssh
+        </label>
+      </a>
+    </li>
+  </ul>
+</article>
+`;

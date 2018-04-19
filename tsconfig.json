@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "es5",
+    "jsx": "react",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "declaration": false,
+    "noUnusedLocals": false,
+    "lib": ["es6", "es7", "dom", "es2017"],
+    "noImplicitAny": false,
+    "baseUrl": "src",
+    "outDir": "build/tsc"
+  },
+  "include": [
+    "src/**/*",
+    "types/global.d.ts",
+    "src/app/store/store.d.ts"
+  ],
+  "exclude": [
+    "dist",
+    "build",
+    "data",
+    "node_modules"
+  ]
+}

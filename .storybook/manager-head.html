@@ -1,0 +1,81 @@
+<!--https://storybook.js.org/configurations/add-custom-head-tags/#add-tags-or-scripts-to-the-main-ui-->
+<!-- todo less hacky way to have a dark theme -->
+<!-- possible refactor coming https://github.com/storybooks/storybook/pull/1360 -->
+
+<style type="text/css">
+    .Pane1 {
+        background-color: #000;
+        color: white;
+    }
+
+    .Pane1 a {
+        background-color: #000;
+    }
+
+    .Resizer {
+        background-color: #000;
+    }
+
+    .Pane1 input {
+        background-color: #000 !important;
+        color: white !important;
+    }
+
+    .Pane2 {
+        background-color: #000;
+        color: white;
+    }
+
+    .Pane2 div {
+        background-color: #000;
+    }
+
+    .Pane2 ol {
+        background-color: #000;
+    }
+
+    .Pane2 span {
+        padding: 1em 0 0 0 !important;
+        color: cyan !important;
+    }
+
+    .Pane2 span > span:first-child {
+        color: white !important;
+    }
+
+    .Pane2 button {
+        color: white !important;
+    }
+
+    *::-webkit-scrollbar {
+        width: 10px ! important;
+        height: 10px ! important;
+        background: #070707 ! important;
+        border: 1px solid #0e0e0e ! important;
+    }
+
+    *::-webkit-scrollbar-button {
+        display: none ! important;
+    }
+
+    *::-webkit-scrollbar-thumb,
+    *::-webkit-scrollbar-track {
+        border: 0 ! important;
+        box-shadow: none ! important;
+    }
+
+    *::-webkit-scrollbar-thumb {
+        min-height: 28px ! important;
+        background: #2c2c2c ! important;
+    }
+
+    *::-webkit-scrollbar-thumb:hover {
+        background: #6a6a6a ! important;
+    }
+
+    *::-webkit-scrollbar-corner,
+    *::-webkit-scrollbar-track {
+        background: #0c0c0c ! important;
+    }
+
+</style>

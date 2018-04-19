@@ -1,0 +1,56 @@
+{
+  "debugging-fp-js": {
+    "id": "debugging-fp-js",
+    "title": "Debugging Functional Javascript",
+    "fileName": "debugging-fp-js.json",
+    "tagline": "Working through errors and stacktraces to debug functional style javascript"
+  },
+  "find-grep-ack": {
+    "id": "find-grep-ack",
+    "title": "find, grep & ack",
+    "fileName": "find-grep-ack.json",
+    "tagline": "code search tooling in the command line"
+  },
+  "i3-wm": {
+    "id": "i3-wm",
+    "title": "i3 display management",
+    "fileName": "i3-wm.json",
+    "tagline": "Managing multiple displays with xrandr"
+  },
+  "nightmare": {
+    "id": "nightmare",
+    "title": "Nightmare browser automation",
+    "fileName": "nightmare.json",
+    "tagline": "Browser automation with Electron"
+  },
+  "react-fragments": {
+    "id": "react-fragments",
+    "title": "React Fragments",
+    "fileName": "react-fragments.json",
+    "tagline": "Avoiding a div soup with React Fragments"
+  },
+  "react-portals": {
+    "id": "react-portals",
+    "title": "React Portals",
+    "fileName": "react-portals.json",
+    "tagline": "Control the dom structure of your React app with Portals"
+  },
+  "reading-list": {
+    "id": "reading-list",
+    "title": "Reading list",
+    "fileName": "reading-list.json",
+    "tagline": "A collection of reading sources worth reading and sharing"
+  },
+  "ssh-host-config": {
+    "id": "ssh-host-config",
+    "title": "ssh `Host` configuration",
+    "fileName": "ssh-host-config.json",
+    "tagline": "Configure ssh for multiple hosts"
+  },
+  "static-site-cd": {
+    "id": "static-site-cd",
+    "title": "Static site cd",
+    "fileName": "static-site-cd.json",
+    "tagline": "Continuous deployment for a static website with git, rrsync and ssh"
+  }
+}
